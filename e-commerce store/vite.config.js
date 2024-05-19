@@ -13,5 +13,6 @@ export default defineConfig({
         // Add more entry points for other HTML files as needed
       },
     },
+    outDir: "./docs",
   },
 });
